@@ -3,7 +3,7 @@ import Verse from "../models/Verse.js";
 import Lesson from "../models/Lesson.js";
 import Story from "../models/Story.js";
 import AdãoImg from "/characters/Adão.png";
-import Videos from "../models/videos.js";
+import Videos from "../models/Videos.js";
 
 const characters = [
 
