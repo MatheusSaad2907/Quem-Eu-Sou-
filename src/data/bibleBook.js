@@ -1,7 +1,7 @@
 import BibleBook from "../models/BibleBook.js";
 import Outline from '../models/Outline.js'
 import Verse from "../models/Verse.js";
-import Videos from "../models/videos.js";
+import Videos from "../models/Videos.js";
 
 
 
