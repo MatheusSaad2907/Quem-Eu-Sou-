@@ -1,4 +1,4 @@
-import CharacterSummary from './characterSummary.js';
+import CharacterSummary from './CharacterSummary.js';
 
 class Character extends CharacterSummary {
     constructor(
