@@ -2,7 +2,7 @@ import Character from "../models/Characters.js";
 import Verse from "../models/Verse.js";
 import Lesson from "../models/Lesson.js";
 import Story from "../models/Story.js";
-import AdãoImg from ".../public/characters/Adão.png";
+import AdãoImg from "/characters/Adão.png";
 import Videos from "../models/videos.js";
 
 const characters = [
